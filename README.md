@@ -20,3 +20,21 @@ Run file
 ```bash
 node sales_analysis.js
 ```
+
+Sample Output
+-------------
+```
+Analyzing sales.tab and products.tab files
+
+Top 5 categories by sales:
+Snacks
+Breakfast
+Candy
+Beverages
+Baby Food
+
+Top product by total sales in category 'Candy':
+Endangered Species Gorilla Bar Milk Chocolate With Pecan Praline
+
+(completed in 0.448 secs)
+```
